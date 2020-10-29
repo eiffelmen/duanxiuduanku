@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotations><floder>/home/cab/work/data/q4/dxdk/store_trousers/img</floder><filename>store_trousers20200910_283.jpg</filename><source><database>Unknown</database><annotation>Unknown</annotation><image>Unknown</image></source><size><width>318</width><height>816</height><depth>3</depth></size><object><name>person</name><occluded>0</occluded><pose>Format</pose><truncated>1</truncated><class>l_sleeve</class><class>trousers</class><bndbox><xmin>11</xmin><ymin>17</ymin><xmax>282</xmax><ymax>808</ymax></bndbox></object></annotations>
